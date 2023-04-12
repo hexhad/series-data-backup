@@ -1,5 +1,20 @@
 export const series = [
-"the-company-you-keep",
-"limitless",
-"da-vinci-s-demons"
-]
+  "the-company-you-keep",
+  "limitless",
+  "da-vinci-s-demons",
+  "game-of-thrones",
+  "rick-and-morty",
+  "scorpion",
+  "la-casa-de-papel",
+  "house-of-the-dragon",
+  "the-last-ship",
+  "archer-2009",
+  "person-of-interest",
+  "moon-knight",
+  "dark",
+  "marvel-s-what-if",
+  "midnight-texas",
+  "arcane",
+  "critical-role-the-legend-of-vox-machina",
+  "hannibal"
+];
